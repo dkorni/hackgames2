@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -96,7 +96,8 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
     m_ExportTrainingData: 0
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 0ad0d117fea21bb47a1b4b6cfc60aac8,
+    type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
 NavMeshSettings:
@@ -222,7 +223,7 @@ PrefabInstance:
     - target: {fileID: 621663848978553137, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
         type: 3}
       propertyPath: m_Name
-      value: person (1)
+      value: Visual
       objectReference: {fileID: 0}
     - target: {fileID: 4538447699082963746, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
         type: 3}
@@ -279,23 +280,39 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5796640571746666072, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
-        type: 3}
-      propertyPath: m_Controller
+    - target: {fileID: 1557423873, guid: e31a0a3fc16162f4e8b6cbf8920aa716, type: 3}
+      propertyPath: MsController
       value: 
-      objectReference: {fileID: 9100000, guid: e6956b09fbc4f504d99f704f2c393b1b, type: 2}
-    - target: {fileID: 4485491929800822234, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
-        type: 3}
-      propertyPath: m_Center.y
-      value: 0.81
-      objectReference: {fileID: 0}
-    - target: {fileID: 4485491929800822234, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
-        type: 3}
-      propertyPath: m_Radius
-      value: 0.32
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1251125731}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31a0a3fc16162f4e8b6cbf8920aa716, type: 3}
+--- !u!1 &1251125727 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1251125727, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
+    type: 3}
+  m_PrefabInstance: {fileID: 1246450627}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1251125731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1251125727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56d224843faf8f44ba2be0bf8d321fad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axes: 2
+  sensitivityX: 15
+  sensitivityY: 15
+  minimumX: -360
+  maximumX: 360
+  minimumY: -60
+  maximumY: 60
+  rotationY: 0
+  frameCounter: 20
 --- !u!1 &1532141471
 GameObject:
   m_ObjectHideFlags: 0
@@ -393,7 +410,7 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1246450627}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1557423873
+--- !u!114 &1557423877
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -402,107 +419,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 1557423872}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a9290b3a4a874b40bf4e409903a5ea8, type: 3}
+  m_Script: {fileID: 11500000, guid: 56d224843faf8f44ba2be0bf8d321fad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AnimatorController: {fileID: 1557423875}
-  Speed: 6
-  JumpSpeed: 8
-  Gravity: 20
-  Damage: 100
-  Hp: 100
---- !u!95 &1557423875 stripped
-Animator:
-  m_CorrespondingSourceObject: {fileID: 5796640571746666072, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
-    type: 3}
-  m_PrefabInstance: {fileID: 1246450627}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1557423876 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4538447699082963746, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
-    type: 3}
-  m_PrefabInstance: {fileID: 1246450627}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &2132188500
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2132188501}
-  - component: {fileID: 2132188503}
-  - component: {fileID: 2132188502}
-  m_Layer: 0
-  m_Name: Camera
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2132188501
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2132188500}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.24, y: 1.61, z: -1.52}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1557423876}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!81 &2132188502
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2132188500}
-  m_Enabled: 1
---- !u!20 &2132188503
-Camera:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2132188500}
-  m_Enabled: 1
-  serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
-  m_projectionMatrixMode: 1
-  m_GateFitMode: 2
-  m_FOVAxisMode: 0
-  m_SensorSize: {x: 36, y: 24}
-  m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
-  m_NormalizedViewPortRect:
-    serializedVersion: 2
-    x: 0
-    y: 0
-    width: 1
-    height: 1
-  near clip plane: 0.3
-  far clip plane: 1000
-  field of view: 60
-  orthographic: 0
-  orthographic size: 5
-  m_Depth: 0
-  m_CullingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RenderingPath: -1
-  m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 0
-  m_TargetEye: 3
-  m_HDR: 1
-  m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
-  m_ForceIntoRT: 0
-  m_OcclusionCulling: 1
-  m_StereoConvergence: 10
-  m_StereoSeparation: 0.022
+  axes: 1
+  sensitivityX: 15
+  sensitivityY: 15
+  minimumX: -360
+  maximumX: 360
+  minimumY: -60
+  maximumY: 60
+  rotationY: 0
+  frameCounter: 20
