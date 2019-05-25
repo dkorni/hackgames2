@@ -27,6 +27,7 @@ public class PersonControl : MonoBehaviour
     void Start()
     {
         _characterController = GetComponent<CharacterController>();
+        CheckIfPhotonPersonIsMine();
 
     }
 
