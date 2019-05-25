@@ -622,7 +622,7 @@ MonoBehaviour:
   Spawns: []
   PlayerPrefab: {fileID: 621663848978553137, guid: e31a0a3fc16162f4e8b6cbf8920aa716,
     type: 3}
-  WaitTimer: 0
+  WaitTimer: 3
 --- !u!4 &959224991
 Transform:
   m_ObjectHideFlags: 0
