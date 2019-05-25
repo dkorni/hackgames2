@@ -104,3 +104,5 @@
 2019-05-25 10:10:27,637 [21] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
 2019-05-25 10:12:52,513 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Low to Lowest with input 20
 2019-05-25 10:12:52,560 [19] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Low, new=Lowest
+2019-05-25 10:19:34,997 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.FeedbackController - Transit CpuUsage from Lowest to Low with input 35
+2019-05-25 10:19:35,009 [8] INFO  Photon.Common.LoadBalancer.LoadShedding.WorkloadController - FeedbackLevel changed: old=Lowest, new=Low
