@@ -34,6 +34,7 @@ public class PersonControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        CheckIfPhotonPersonIsMine();
         var mouseY = Input.GetAxis("Mouse Y");
 
         var x = Input.GetAxis("Horizontal");
