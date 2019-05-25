@@ -207,12 +207,197 @@ ModelImporter:
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
-    animationImportWarnings: 
+    animationImportWarnings: "\nClip 'Rifle_Idle' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Spine1' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\nClip 'Rifle_TurnR_90' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Spine1' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_TurnL_90' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_TurnR_180' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_TurnL_180' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdStart' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdLoop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdStop_LU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdStop_RU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkBwdStart' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkBwdLoop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkBwdStop_RU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkBwdStop_LU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeRightStart' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeRightLoop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeRightStop_LU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeRightStop_RU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeLeftStart' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeLeftLoop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeLeftStop_RU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeLeftStop_LU' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeLeft45Loop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_StrafeRight135Loop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_ShootOnce' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_ShootGrenade' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_ShootBurst' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Reload_2' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_ShootBurstLong' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_ShootLoop_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45L_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45R_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45U_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45D_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_90L_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_90R_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_90U_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_90D_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45LU_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45RU_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45LD_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Look_45RD_Additive' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_TurnR_90Loop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_TurnL_90Loop' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Hit_L_1' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Hit_L_2' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Hit_R_2' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Hit_C_1' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Melee_Hard' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Melee_Kick' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Grenade_Throw_Single' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Spine1' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'Rifle_Grenade_Throw_Start' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Spine1' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'Rifle_Grenade_Throw_Loop'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Spine1' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Grenade_Throw_Cancel' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Spine1' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\nClip 'Rifle_Grenade_Throw_Far' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Spine1' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\nClip 'Rifle_Grenade_Throw_Close'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Spine1' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdStart180_R' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdStart180_L' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdStart90_R' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_WalkFwdStart90_L' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Death_L' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'Rifle_Death_R' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -261,12 +446,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
@@ -435,12 +620,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
@@ -551,12 +736,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
-      loopBlend: 0
+      loopTime: 1
+      loopBlend: 1
       loopBlendOrientation: 0
-      loopBlendPositionY: 0
-      loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
@@ -667,12 +852,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
@@ -783,12 +968,12 @@ ModelImporter:
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
       loopBlendPositionXZ: 0
-      keepOriginalOrientation: 0
+      keepOriginalOrientation: 1
       keepOriginalPositionY: 1
       keepOriginalPositionXZ: 0
       heightFromFeet: 0
@@ -2087,8 +2272,789 @@ ModelImporter:
   copyAvatar: 0
   humanDescription:
     serializedVersion: 3
-    human: []
-    skeleton: []
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Rifle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Rifle(Clone)
+      position: {x: -0.0000006352863, y: 0.0000012183034, z: 0.0000005539809}
+      rotation: {x: 0.00006645942, y: 0.00000007409619, z: -0.000066459455, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Root
+      position: {x: -0.0001295286, y: 0.9782684, z: -0.004163652}
+      rotation: {x: -0.000066460874, y: -0.00000012065952, z: 0.00006650311, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpLeg
+      parentName: Hips
+      position: {x: 0.11994001, y: 0.00000025401295, z: -0.00000002097099}
+      rotation: {x: 0.5106355, y: -0.47630525, z: -0.50419253, w: 0.5081089}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+    - name: RightUpLegRoll
+      parentName: RightUpLeg
+      position: {x: 0.25699177, y: 0.000000017943513, z: 0.00000022397667}
+      rotation: {x: -0.0000011848738, y: 0.00000078110645, z: -0.00000053391784, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightLeg
+      parentName: RightUpLeg
+      position: {x: 0.4459063, y: 0.0000000067612715, z: -0.00000003464626}
+      rotation: {x: 0.00000008940696, y: -0.00000004470348, z: -0.028270539, w: 0.9996003}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000006}
+    - name: RightLegRoll
+      parentName: RightLeg
+      position: {x: 0.25561854, y: -0.000000069443296, z: 0.00000013499185}
+      rotation: {x: -0.0036979155, y: 0.00000041821536, z: -0.0000028273184, w: 0.9999932}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightFoot
+      parentName: RightLeg
+      position: {x: 0.4162494, y: -0.000000029735272, z: 0.0000002935537}
+      rotation: {x: 0.06601772, y: 0.09597817, z: 0.52489597, w: 0.84315723}
+      scale: {x: 0.99999994, y: 1.0000004, z: 0.9999998}
+    - name: RightToeBase
+      parentName: RightFoot
+      position: {x: 0.17912616, y: -0.00000010134995, z: -0.00000037295976}
+      rotation: {x: 0.15120824, y: 0.10709095, z: 0.21143363, w: 0.9596684}
+      scale: {x: 1.0000006, y: 0.99999994, z: 1.0000004}
+    - name: RightToeBase_END
+      parentName: RightToeBase
+      position: {x: 0.096135154, y: 0.00000017818634, z: 0.00000021560201}
+      rotation: {x: 0.30749094, y: -0.000000012147696, z: -0.0000000039254933, w: 0.951551}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999976}
+    - name: LeftUpLeg
+      parentName: Hips
+      position: {x: -0.119939744, y: -2.842171e-16, z: 2.1175823e-24}
+      rotation: {x: -0.50810885, y: -0.5041926, z: 0.47630522, w: 0.51063555}
+      scale: {x: 1.000001, y: 1.0000007, z: 1.0000005}
+    - name: LeftUpLegRoll
+      parentName: LeftUpLeg
+      position: {x: -0.25699112, y: 4.440892e-18, z: -1.7763568e-17}
+      rotation: {x: 0.00000054594915, y: -0.000002830093, z: 0.0000008977537, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLeg
+      parentName: LeftUpLeg
+      position: {x: -0.4459065, y: 0.0000000071525554, z: 0.000000019073477}
+      rotation: {x: -0.000000029802319, y: -0, z: -0.02827048, w: 0.9996003}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1.0000004}
+    - name: LeftLegRoll
+      parentName: LeftLeg
+      position: {x: -0.25561854, y: 8.8817837e-17, z: 1.7763575e-17}
+      rotation: {x: 0.005268402, y: -0.0000002517944, z: -0.0000009627253, w: 0.9999861}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftFoot
+      parentName: LeftLeg
+      position: {x: -0.41624922, y: 0.00000001069738, z: -0.000000010534252}
+      rotation: {x: 0.066017635, y: -0.013112538, z: -0.53343755, w: -0.8431573}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: LeftToeBase
+      parentName: LeftFoot
+      position: {x: -0.17912558, y: -7.888609e-33, z: -3.5527136e-17}
+      rotation: {x: 0.0000006100163, y: 0.00000009825453, z: 0.23700774, w: 0.9715078}
+      scale: {x: 1.0000002, y: 1, z: 1.0000005}
+    - name: LeftToeBase_END
+      parentName: LeftToeBase
+      position: {x: -0.096135765, y: -0.000000009536743, z: -0.000000009536743}
+      rotation: {x: -9.9503475e-11, y: -0.000000012766207, z: -1.2702819e-18, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999976}
+    - name: Spine
+      parentName: Hips
+      position: {x: 0.000000019484096, y: 0.1172419, z: 1.3518631e-15}
+      rotation: {x: -0.028183332, y: 0.000000047613955, z: -0.000000036507565, w: 0.9996028}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: Spine1
+      parentName: Spine
+      position: {x: -0.0000000055014895, y: 0.21435943, z: 0.0039671953}
+      rotation: {x: -0.009337379, y: -0.000000023232802, z: -0.0000000015288711, w: 0.9999565}
+      scale: {x: 0.9999996, y: 0.9999999, z: 1.0000002}
+    - name: RightShoulder
+      parentName: Spine1
+      position: {x: 0.03546743, y: 0.19059406, z: 0.0026854929}
+      rotation: {x: 0.9982759, y: -0.058697492, z: -0.000000052852556, w: 0.000000064718364}
+      scale: {x: 1.0000012, y: 1.0000014, z: 1.0000012}
+    - name: RightArm
+      parentName: RightShoulder
+      position: {x: 0.16987494, y: 0.000007964248, z: 0.00000066770383}
+      rotation: {x: -0.0015051878, y: 0.0019343258, z: -0.0238819, w: 0.9997119}
+      scale: {x: 0.9999999, y: 1.0000006, z: 1.0000011}
+    - name: RightArmRoll
+      parentName: RightArm
+      position: {x: 0.12099669, y: 0.00000457359, z: 0.00000093895443}
+      rotation: {x: -0.00000016143973, y: -0.00000004521037, z: -0.000008233938, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: RightForeArm
+      parentName: RightArm
+      position: {x: 0.27103955, y: -0.0000052501487, z: -0.0000004830787}
+      rotation: {x: -0.013677427, y: 0.022392204, z: -0.032886412, w: 0.9991146}
+      scale: {x: 1.0000004, y: 1, z: 1.0000002}
+    - name: RightForeArmRoll
+      parentName: RightForeArm
+      position: {x: 0.14892064, y: 0.0000026945236, z: -0.000001420859}
+      rotation: {x: 0.011497345, y: -0.00000080593736, z: 0.0000051462566, w: 0.9999339}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: RightHand
+      parentName: RightForeArm
+      position: {x: 0.28277272, y: 0.0000037394702, z: 0.00000078103074}
+      rotation: {x: 0.053187203, y: -0.06072641, z: 0.12767307, w: 0.9885257}
+      scale: {x: 1.0000002, y: 0.99999964, z: 1.0000001}
+    - name: RightHandProp
+      parentName: RightHand
+      position: {x: 0.093351655, y: 0.009639475, z: -0.017585294}
+      rotation: {x: 0.44216722, y: -0.50495726, z: 0.6065088, w: -0.42620823}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: RightHandThumb1
+      parentName: RightHand
+      position: {x: 0.011835694, y: -0.00000491528, z: -0.021989543}
+      rotation: {x: -0.70904964, y: -0.2536913, z: 0.27217013, w: -0.5990099}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000004}
+    - name: RightHandThumb2
+      parentName: RightHandThumb1
+      position: {x: 0.053366397, y: 0.0000005555474, z: -0.0000003192392}
+      rotation: {x: -0.0034763503, y: 0.016044388, z: 0.035358075, w: 0.9992399}
+      scale: {x: 0.9999988, y: 0.9999988, z: 0.9999992}
+    - name: RightHandThumb3
+      parentName: RightHandThumb2
+      position: {x: 0.035876296, y: 0.00000016299808, z: 0.00000033407144}
+      rotation: {x: -0.0000015036193, y: -0.000028382967, z: 0.0396501, w: 0.9992137}
+      scale: {x: 1.000002, y: 1.0000027, z: 1.0000011}
+    - name: RightHandThumb4
+      parentName: RightHandThumb3
+      position: {x: 0.027048592, y: -0.00000022106605, z: -0.0000025178758}
+      rotation: {x: 0.038122673, y: -0.008535715, z: 0.0018777116, w: 0.99923486}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: RightHandRing1
+      parentName: RightHand
+      position: {x: 0.093086556, y: -0.0130819855, z: 0.017438997}
+      rotation: {x: 0.0039461865, y: -0.0059870146, z: 0.00361498, w: 0.99996775}
+      scale: {x: 1.0000011, y: 1.0000001, z: 1.0000005}
+    - name: RightHandRing2
+      parentName: RightHandRing1
+      position: {x: 0.03746815, y: 0.0000014012795, z: -0.000000032351455}
+      rotation: {x: -0.00000046892063, y: -0.0000062030704, z: 0.03888429, w: 0.99924374}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000005}
+    - name: RightHandRing3
+      parentName: RightHandRing2
+      position: {x: 0.022955379, y: -0.0000031982422, z: -0.00000049800036}
+      rotation: {x: 0.00000017881393, y: 0.000000063329935, z: 0.028357863, w: 0.9995979}
+      scale: {x: 0.99999887, y: 1, z: 1.0000001}
+    - name: RightHandRing4
+      parentName: RightHandRing3
+      position: {x: 0.024415782, y: 0.0000003708218, z: 0.00000026696424}
+      rotation: {x: 0.00000019952365, y: 0.0000004730403, z: 0.0000014176097, w: 1}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.9999998}
+    - name: RightHandPinky1
+      parentName: RightHand
+      position: {x: 0.08836552, y: -0.008012679, z: 0.038185213}
+      rotation: {x: 0.006350803, y: -0.015111413, z: -0.00012231935, w: 0.9998657}
+      scale: {x: 1.0000014, y: 1.0000007, z: 1.0000015}
+    - name: RightHandPinky2
+      parentName: RightHandPinky1
+      position: {x: 0.032830056, y: -0.0000036210447, z: -0.0000010287748}
+      rotation: {x: 0.00000052154036, y: 0.000025089816, z: 0.037587777, w: 0.9992933}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000005}
+    - name: RightHandPinky3
+      parentName: RightHandPinky2
+      position: {x: 0.022732977, y: 0.000006122673, z: 0.0000009729948}
+      rotation: {x: 0.00000024586913, y: 0.000000029802319, z: 0.018586664, w: 0.99982727}
+      scale: {x: 0.99999917, y: 1.0000005, z: 1.0000002}
+    - name: RightHandPinky4
+      parentName: RightHandPinky3
+      position: {x: 0.021579312, y: -0.0000056923086, z: -0.00000089368746}
+      rotation: {x: -0.00000011002029, y: 0.00000025310965, z: 0.0000015583803, w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999997}
+    - name: RightHandMiddle1
+      parentName: RightHand
+      position: {x: 0.09277641, y: -0.01318032, z: -0.003724679}
+      rotation: {x: -0.00021751215, y: 0.0054408023, z: 0.009923585, w: 0.9999359}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000007}
+    - name: RightHandMiddle2
+      parentName: RightHandMiddle1
+      position: {x: 0.039288618, y: -0.000004537285, z: -0.0000009518567}
+      rotation: {x: 0.0000014155223, y: 0.000027121963, z: 0.037010685, w: 0.99931484}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000006}
+    - name: RightHandMiddle3
+      parentName: RightHandMiddle2
+      position: {x: 0.026178442, y: 0.0000050355325, z: 0.0000013503446}
+      rotation: {x: 0.00000034384948, y: -0.0000032175237, z: 0.04152822, w: 0.99913734}
+      scale: {x: 0.9999991, y: 1.0000002, z: 0.9999998}
+    - name: RightHandMiddle4
+      parentName: RightHandMiddle3
+      position: {x: 0.026083775, y: -0.0000036223148, z: -0.0000006955289}
+      rotation: {x: 0.00000030347528, y: -0.0000023757311, z: -0.0000010337834, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: RightHandIndex1
+      parentName: RightHand
+      position: {x: 0.09078874, y: -0.0126793, z: -0.029299397}
+      rotation: {x: -0.0013034634, y: 0.020288829, z: 0.011437059, w: 0.9997279}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000006}
+    - name: RightHandIndex2
+      parentName: RightHandIndex1
+      position: {x: 0.0368858, y: -0.0000027036494, z: -0.0000007331234}
+      rotation: {x: 0.00000023865127, y: 0.000015269956, z: 0.036609314, w: 0.9993296}
+      scale: {x: 0.9999995, y: 1, z: 1.0000004}
+    - name: RightHandIndex3
+      parentName: RightHandIndex2
+      position: {x: 0.026626283, y: 0.0000037640082, z: 0.0000006018164}
+      rotation: {x: 0.00000015646219, y: 0.00000013411045, z: 0.040131718, w: 0.99919444}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000007}
+    - name: RightHandIndex4
+      parentName: RightHandIndex3
+      position: {x: 0.02470796, y: 0.0000004386452, z: 0.00000095279546}
+      rotation: {x: 0.00000050767676, y: 0.0000013190235, z: 0.0000010961542, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Neck
+      parentName: Spine1
+      position: {x: 0.00000011290042, y: 0.24268691, z: 0.0013742375}
+      rotation: {x: 0.12585267, y: -0.00000009211806, z: 0.000000022200041, w: 0.992049}
+      scale: {x: 1.0000012, y: 0.9999999, z: 0.9999999}
+    - name: Head
+      parentName: Neck
+      position: {x: 5.4267707e-15, y: 0.10393006, z: -3.907985e-16}
+      rotation: {x: -0.089241974, y: -0.000000647871, z: 0.000000074667184, w: 0.99601}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: LeftShoulder
+      parentName: Spine1
+      position: {x: -0.03546744, y: 0.19058922, z: 0.0026851227}
+      rotation: {x: -0.000000007450581, y: -0.000000019645634, z: 0.058697555, w: 0.9982759}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000001}
+    - name: LeftArm
+      parentName: LeftShoulder
+      position: {x: -0.1698738, y: 0.00000015258789, z: -0.000000028610229}
+      rotation: {x: -0.0015050187, y: 0.0019349159, z: -0.023892326, w: 0.99971163}
+      scale: {x: 1.0000004, y: 1, z: 1.0000001}
+    - name: LeftArmRoll
+      parentName: LeftArm
+      position: {x: -0.12099714, y: -0.000003967285, z: -0.00000091453967}
+      rotation: {x: 0.0000009483874, y: -0.00000031292137, z: -0.000004110404, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000002}
+    - name: LeftForeArm
+      parentName: LeftArm
+      position: {x: -0.2710414, y: -2.2737367e-15, z: 0.000000020774468}
+      rotation: {x: -0.01367595, y: 0.022390665, z: -0.0328705, w: 0.9991152}
+      scale: {x: 1.000001, y: 1.0000002, z: 1.0000007}
+    - name: LeftForeArmRoll
+      parentName: LeftForeArm
+      position: {x: -0.14891969, y: 0.0000021362305, z: 0.0000022411346}
+      rotation: {x: 0.027071705, y: 0.00000086372086, z: -0.000009658508, w: 0.9996335}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: LeftHand
+      parentName: LeftForeArm
+      position: {x: -0.28277162, y: -0.0000001566176, z: 0.00000011444058}
+      rotation: {x: 0.05318724, y: -0.060726378, z: 0.12767307, w: 0.9885257}
+      scale: {x: 0.9999993, y: 1.0000006, z: 0.99999905}
+    - name: LeftHandProp
+      parentName: LeftHand
+      position: {x: -0.0725043, y: -0.02021896, z: 0.0037910764}
+      rotation: {x: -0.000000008333765, y: 0.000000057429368, z: 0.00000008727901,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: LeftHandThumb1
+      parentName: LeftHand
+      position: {x: -0.011838579, y: 6.271406e-18, z: 0.021988293}
+      rotation: {x: 0.70905256, y: 0.25369248, z: -0.27216202, w: 0.59900963}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: LeftHandThumb2
+      parentName: LeftHandThumb1
+      position: {x: -0.053366598, y: 2.4868983e-16, z: 3.5527113e-17}
+      rotation: {x: -0.0034765275, y: 0.016036972, z: 0.035353377, w: 0.9992401}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000004}
+    - name: LeftHandThumb3
+      parentName: LeftHandThumb2
+      position: {x: -0.035876896, y: -7.105411e-17, z: 4.7961594e-16}
+      rotation: {x: 0.00000020954745, y: -0.0000002998857, z: 0.039647684, w: 0.9992138}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000013}
+    - name: LeftHandThumb4
+      parentName: LeftHandThumb3
+      position: {x: -0.02704627, y: 0.0000001335144, z: -1.4210841e-16}
+      rotation: {x: -0.00000076214576, y: 0.00000092131626, z: 0.00000047033978, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: LeftHandRing1
+      parentName: LeftHand
+      position: {x: -0.09308742, y: 0.013081195, z: -0.01743882}
+      rotation: {x: 0.0039469795, y: -0.005990784, z: 0.003639546, w: 0.9999677}
+      scale: {x: 1.0000011, y: 1.0000008, z: 0.99999946}
+    - name: LeftHandRing2
+      parentName: LeftHandRing1
+      position: {x: -0.037466865, y: -0.000000085830685, z: -0.000000076293944}
+      rotation: {x: 0.00000025052557, y: 0.0000017103724, z: 0.03878723, w: 0.99924755}
+      scale: {x: 0.9999994, y: 0.99999917, z: 1.0000002}
+    - name: LeftHandRing3
+      parentName: LeftHandRing2
+      position: {x: -0.022958877, y: -0.000000076293944, z: -0.00000015258789}
+      rotation: {x: 0.000000029802322, y: -0, z: 0.028357783, w: 0.9995979}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: LeftHandRing4
+      parentName: LeftHandRing3
+      position: {x: -0.024415893, y: -0.000000009536743, z: 0.000000076293944}
+      rotation: {x: -0.00000008936069, y: -0.0000013465059, z: -0.0000009129025, w: 1}
+      scale: {x: 1.0000002, y: 0.9999998, z: 0.9999998}
+    - name: LeftHandPinky1
+      parentName: LeftHand
+      position: {x: -0.088366896, y: 0.008011721, z: -0.03818498}
+      rotation: {x: 0.0063499794, y: -0.015091484, z: -0.00017270524, w: 0.99986595}
+      scale: {x: 1.0000007, y: 0.99999994, z: 0.9999998}
+    - name: LeftHandPinky2
+      parentName: LeftHandPinky1
+      position: {x: -0.032832332, y: 0.000000076293944, z: -0.000000076293944}
+      rotation: {x: -0.000000040046842, y: -0.000001932493, z: 0.0377877, w: 0.9992858}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: LeftHandPinky3
+      parentName: LeftHandPinky2
+      position: {x: -0.022726413, y: 1.9539921e-16, z: 0.000000076293944}
+      rotation: {x: -0.000000014901161, y: 0.000000029802322, z: 0.018586699, w: 0.9998273}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.9999999}
+    - name: LeftHandPinky4
+      parentName: LeftHandPinky3
+      position: {x: -0.021585673, y: 0.00000014305114, z: 8.881782e-17}
+      rotation: {x: 0.0000003186789, y: -0.000001737785, z: -0.00000087829596, w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.9999997}
+    - name: LeftHandMiddle1
+      parentName: LeftHand
+      position: {x: -0.092778176, y: 0.013179303, z: 0.0037245366}
+      rotation: {x: -0.00021806719, y: 0.0054507, z: 0.009868345, w: 0.99993646}
+      scale: {x: 1.0000011, y: 1.0000012, z: 1}
+    - name: LeftHandMiddle2
+      parentName: LeftHandMiddle1
+      position: {x: -0.039290354, y: -0.000000009536743, z: 0.00000015258789}
+      rotation: {x: -0.00000026810426, y: 0.0000014100212, z: 0.037167627, w: 0.9993091}
+      scale: {x: 0.9999996, y: 0.9999989, z: 0.99999976}
+    - name: LeftHandMiddle3
+      parentName: LeftHandMiddle2
+      position: {x: -0.026174273, y: -0.00000015258789, z: -2.486898e-16}
+      rotation: {x: 0.00000015272809, y: 0.000000016118282, z: 0.04135624, w: 0.99914455}
+      scale: {x: 1.0000004, y: 0.9999996, z: 0.9999999}
+    - name: LeftHandMiddle4
+      parentName: LeftHandMiddle3
+      position: {x: -0.026087632, y: -2.1316274e-16, z: 3.8191667e-16}
+      rotation: {x: 0.0000006152368, y: 0.00000004986244, z: -0.0000005930713, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: LeftHandIndex1
+      parentName: LeftHand
+      position: {x: -0.09079056, y: 0.012677629, z: 0.029299146}
+      rotation: {x: -0.0013038133, y: 0.020290392, z: 0.011406194, w: 0.99972826}
+      scale: {x: 1.0000012, y: 1.0000012, z: 1}
+    - name: LeftHandIndex2
+      parentName: LeftHandIndex1
+      position: {x: -0.0368864, y: -3.1554436e-32, z: 0.00000015258789}
+      rotation: {x: -0.00000023585724, y: 0.0000015944229, z: 0.0367203, w: 0.9993256}
+      scale: {x: 0.99999917, y: 0.9999989, z: 0.9999999}
+    - name: LeftHandIndex3
+      parentName: LeftHandIndex2
+      position: {x: -0.02662345, y: 1.421085e-16, z: 3.197442e-16}
+      rotation: {x: 0.00000004097819, y: -0, z: 0.040131703, w: 0.9991944}
+      scale: {x: 1.0000001, y: 0.99999964, z: 0.9999999}
+    - name: LeftHandIndex4
+      parentName: LeftHandIndex3
+      position: {x: -0.02470739, y: -0.000000038146972, z: 3.5526994e-17}
+      rotation: {x: 0.0000007022896, y: 0.00000032841962, z: 0.00000017865197, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: DummyMESH
+      parentName: Rifle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
@@ -2099,10 +3065,10 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 3
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

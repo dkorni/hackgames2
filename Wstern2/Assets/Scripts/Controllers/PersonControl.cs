@@ -26,26 +26,35 @@ public class PersonControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        var x = Input.GetAxis("Horizontal");
+        var y = Input.GetAxis("Vertical");
         if (_characterController.isGrounded)
         {
-            // We are grounded, so recalculate
-            // move direction directly from axes
-
-            _moveDirection = new Vector3(Input.GetAxis("Horizontal"), 0.0f, Input.GetAxis("Vertical"));
-            _moveDirection *= Speed;
-
-            if (Input.GetButton("Jump"))
-            {
-                _moveDirection.y = JumpSpeed;
-            }
-        }
-
-        // Apply gravity. Gravity is multiplied by deltaTime twice (once here, and once below
-        // when the moveDirection is multiplied by deltaTime). This is because gravity should be applied
-        // as an acceleration (ms^-2)
-        _moveDirection.y -= Gravity * Time.deltaTime;
-
+           // We are grounded, so recalculate
+           // move direction directly from axes
+           
+           _moveDirection *= Speed;
+    
+          
+           if (Input.GetButton("Jump"))
+           {
+               _moveDirection.y = JumpSpeed;
+           }
+       }
+    
+       AnimatorController.SetFloat("X", x);
+       AnimatorController.SetFloat("Y", y);
+    
+       // Apply gravity. Gravity is multiplied by deltaTime twice (once here, and once below
+       // when the moveDirection is multiplied by deltaTime). This is because gravity should be applied
+       // as an acceleration (ms^-2)
+       _moveDirection.y -= Gravity * Time.deltaTime;
+    
+       
+    
         // Move the controller
         _characterController.Move(_moveDirection * Time.deltaTime);
+        transform.Translate(new Vector3(x, 0, y) * Speed);
     }
 }
+
