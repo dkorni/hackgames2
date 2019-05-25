@@ -6,7 +6,10 @@ public class PersonControl : MonoBehaviour
 {
     
     public Animator AnimatorController;
-    public MouseController MsController;
+    public MouseController MsControllerVertical;
+    public MouseController MsControllerHorizontal;
+
+    public Camera PersonCamera;
 
     public float Speed = 6.0f;
     public float JumpSpeed = 8.0f;
@@ -18,10 +21,13 @@ public class PersonControl : MonoBehaviour
 
     private Vector3 _moveDirection = Vector3.zero;
 
+    private PhotonView _photonView;
+
     // Start is called before the first frame update
     void Start()
     {
         _characterController = GetComponent<CharacterController>();
+
     }
 
     // Update is called once per frame
@@ -48,7 +54,7 @@ public class PersonControl : MonoBehaviour
        AnimatorController.SetFloat("X", x);
        AnimatorController.SetFloat("Y", y);
 
-        AnimatorController.SetFloat("Mouse Y", MsController.rotationY);
+        AnimatorController.SetFloat("Mouse Y", MsControllerVertical.rotationY);
     
        // Apply gravity. Gravity is multiplied by deltaTime twice (once here, and once below
        // when the moveDirection is multiplied by deltaTime). This is because gravity should be applied
@@ -60,6 +66,17 @@ public class PersonControl : MonoBehaviour
         // Move the controller
         _characterController.Move(_moveDirection * Time.deltaTime);
         transform.Translate(new Vector3(x, 0, y) * Speed);
+    }
+
+    private void CheckIfPhotonPersonIsMine()
+    {
+        if (!_photonView.isMine)
+        {
+            MsControllerVertical.enabled = false;
+            MsControllerHorizontal.enabled = false;
+            PersonCamera.enabled = false;
+            this.enabled = false;
+        }
     }
 }
 
