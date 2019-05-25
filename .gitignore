@@ -1,3 +1,6 @@
 
 Wstern2/Library/
 Wstern2/Temp/
+Wstern2/.vs/Wstern2/v15/Server/sqlite3/storage.ide-shm
+*.ide-shm
+Wstern2/.vs/Wstern2/v15/Server/sqlite3/storage.ide-shm
