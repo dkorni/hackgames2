@@ -1,0 +1,153 @@
+11576: 06:20:58.591 - ---
+11576: 06:20:58.591 - Service: "Photon Socket Server" starting
+11576: 06:20:58.591 - Config File: C:\Users\User\Documents\GitHub\hackgames2\server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+11576: 06:20:58.592 - Will produce at most: 10 crash dumps
+11576: 06:20:58.593 - Action: run as exe
+11576: 06:20:58.593 - Server Starting...
+11576: 06:20:58.593 -    Tick count: 65400343 (wraps in: 48.9533 days)
+11576: 06:20:58.593 - Tick count 64: 65400343
+11576: 06:20:58.593 - Photon Version: 4.0.28.2962
+11576: 06:20:58.593 - PID: 5956
+11576: 06:20:58.593 - Config File: C:\Users\User\Documents\GitHub\hackgames2\server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\bin_Win64\PhotonServer.config
+11576: 06:20:58.593 - Will NOT log unimportant exceptions
+11576: 06:20:58.595 - Not using performance counters as they are not currently installed. Run the service with /InstallCounters to install them.
+11576: 06:20:58.595 - Shutdown timeout enabled: 30000ms
+11576: 06:20:58.595 - Starting I/O thread pool with 2 threads
+11576: 06:20:58.595 - Using Standard allocator
+11576: 06:20:58.595 - Max message size: 512000
+11576: 06:20:58.595 - Starting business logic thread pool with the following settings
+11576: 06:20:58.595 - InitialThreads: 4 threads
+11576: 06:20:58.596 - MinThreads: 4 threads
+11576: 06:20:58.596 - Thread pool is fixed size
+11576: 06:20:58.596 - Starting ENet thread pool with the following settings
+11576: 06:20:58.596 - InitialThreads: 2 threads
+11576: 06:20:58.596 - MinThreads: 2 threads
+11576: 06:20:58.596 - Thread pool is fixed size
+11576: 06:20:58.596 - OnlyDispatchTimers: False
+11576: 06:20:58.596 - S2S: flow control: Max pending writes: 50
+11576: 06:20:58.596 - S2S: flow control: Max queued buffers: 200
+11576: 06:20:58.596 - S2S: flow control: Max pending writes MUX: 500
+11576: 06:20:58.596 - S2S: flow control: Max queued buffers MUX: 2000
+11576: 06:20:58.596 - S2S: MaxInboundMessageSize: 512000
+11576: 06:20:58.596 - S2S: MaxOutboundMessageSize: 512000
+11576: 06:20:58.596 - S2S: No inactivity timeout
+11576: 06:20:58.599 - WebSocket S2S: MaxInboundMessageSize: 512000
+11576: 06:20:58.599 - WebSocket S2S: MaxOutboundMessageSize: 512000
+11576: 06:20:58.599 - WebSocket S2S: No inactivity timeout
+11576: 06:20:58.599 - Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+11576: 06:20:58.599 - Per peer bandwidth limit
+11576: 06:20:58.599 - Transmit Rate Limit: 256 KB/Sec
+11576: 06:20:58.599 - Limit period: 200ms
+11576: 06:20:58.599 - Limit per period: 52428 bytes
+11576: 06:20:58.599 - Max queued data for transmission per peer: 512000 bytes
+11576: 06:20:58.599 - Minimum retransmit timeout: 200
+11576: 06:20:58.599 - No Maximum retransmit timeout
+11576: 06:20:58.599 - Minimum ENet timeout: 5000ms
+11576: 06:20:58.599 - Maximum ENet timeout: 30000ms
+11576: 06:20:58.599 - Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+11576: 06:20:58.599 - No RTT ACK adjustment timeout
+11576: 06:20:58.599 - Outbound ENet: MaxInboundMessageSize: 512000
+11576: 06:20:58.599 - Outbound ENet: MaxOutboundMessageSize: 512000
+11576: 06:20:58.601 - GetRuntime - About to load CLR - versions available:
+11576: 06:20:58.601 - v2.0.50727
+11576: 06:20:58.601 - v4.0.30319
+11576: 06:20:58.601 - Configuration requests: "v2.0.50727"
+11576: 06:20:58.601 - About to load version: "v2.0.50727"
+11576: 06:20:58.657 - About to load runtime: PhotonHostRuntime.PhotonDomainManager from PhotonHostRuntime, Culture=neutral, PublicKeyToken=02C301B61B060C4D
+11576: 06:20:58.657 - CLRBaseDirectory set to "C:\Users\User\Documents\GitHub\hackgames2\server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy"
+11576: 06:20:58.657 - Optimising event broadcast for 20 or more peers
+11576: 06:20:58.658 - Start: About to load CLR - versions available:
+11576: 06:20:58.658 - v2.0.50727
+11576: 06:20:58.658 - v4.0.30319
+11576: 06:20:58.658 - No preference in configuration file, will load latest.
+11576: 06:20:58.658 - About to load version: "v4.0.30319"
+11576: 06:20:58.659 - Loaded version: "v4.0.30319"
+11576: 06:20:58.809 - Photon host runtime loaded
+11576: 06:21:00.719 - LICENSE: No license file was found. Starting with Bootstrap License.
+11576: 06:21:00.720 - License is valid.
+11576: 06:21:00.720 - Licensed for 20 concurrent connections.
+11576: 06:21:00.720 - ENet: Max Reliable Data In Transit (awaiting ACKs) per peer : 51200 bytes
+11576: 06:21:00.720 - ENet: Per peer bandwidth limit
+11576: 06:21:00.720 - ENet: Transmit Rate Limit: 256 KB/Sec
+11576: 06:21:00.720 - ENet: Limit period: 200ms
+11576: 06:21:00.720 - ENet: Limit per period: 52428 bytes
+11576: 06:21:00.720 - ENet: Max queued data for transmission per peer: 512000 bytes
+11576: 06:21:00.720 - ENet: Minimum retransmit timeout: 200
+11576: 06:21:00.720 - No Maximum retransmit timeout
+11576: 06:21:00.721 - ENet: Minimum timeout: 5000ms
+11576: 06:21:00.721 - ENet: Maximum timeout: 30000ms
+11576: 06:21:00.721 - ENet: Max Inbound Reliable Data Queued (awaiting resends of earlier sequence numbers) per peer : 163840 bytes
+11576: 06:21:00.721 - No RTT ACK adjustment timeout
+11576: 06:21:00.721 - About to load application: Master from Photon.LoadBalancing
+11576: 06:21:00.721 - Auto restart is enabled for application, existing connections will be terminated during restart
+11576: 06:21:00.721 - Application will restart 1000ms after the last change detected
+11576: 06:21:00.721 - Application will restart if files matching the following are changed: "dll;config"
+11576: 06:21:00.721 - Application will NOT restart if files matching the following are changed: "log4net.config"
+11576: 06:21:00.980 - Taking reference on default app domain
+11576: 06:21:01.130 - Application: "Master" started in app domain: 2
+11576: 06:21:01.130 - About to load application: Game from Photon.LoadBalancing
+11576: 06:21:01.130 - Auto restart is enabled for application, existing connections will be terminated during restart
+11576: 06:21:01.130 - Application will restart 1000ms after the last change detected
+11576: 06:21:01.130 - Application will restart if files matching the following are changed: "dll;config"
+11576: 06:21:01.130 - Application will NOT restart if files matching the following are changed: "log4net.config"
+11576: 06:21:01.277 - Taking reference on default app domain
+11576: 06:21:01.522 - Application: "Game" started in app domain: 3
+11576: 06:21:01.522 - About to load application: CounterPublisher from CounterPublisher
+11576: 06:21:01.522 - Auto restart is enabled for application, existing connections will be terminated during restart
+11576: 06:21:01.522 - Application will restart 1000ms after the last change detected
+11576: 06:21:01.522 - Application will restart if files matching the following are changed: "dll;config"
+11576: 06:21:01.522 - Application will NOT restart if files matching the following are changed: "log4net.config"
+11576: 06:21:01.660 - Taking reference on default app domain
+11576: 06:21:01.781 - Application: "CounterPublisher" started in app domain: 4
+11576: 06:21:01.781 - Adding TCP listener on: 0.0.0.0: 4530 with a listen backlog of: 150
+11576: 06:21:01.781 - TCP inactivity timeout: 10000ms
+11576: 06:21:01.781 - TCP disconnect timeout: 120000ms
+11576: 06:21:01.781 - MaxInboundMessageSize: 512000
+11576: 06:21:01.781 - MaxOutboundMessageSize: 512000
+11576: 06:21:01.781 - Forcing all applications ids to: "Master"
+11576: 06:21:01.781 - Serving policy file requests from: "C:\Users\User\Documents\GitHub\hackgames2\server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+11576: 06:21:01.781 - Adding TCP listener on: 0.0.0.0: 4531 with a listen backlog of: 150
+11576: 06:21:01.781 - TCP inactivity timeout: 10000ms
+11576: 06:21:01.781 - TCP disconnect timeout: 120000ms
+11576: 06:21:01.781 - MaxInboundMessageSize: 512000
+11576: 06:21:01.782 - MaxOutboundMessageSize: 512000
+11576: 06:21:01.782 - Forcing all applications ids to: "Game"
+11576: 06:21:01.782 - Serving policy file requests from: "C:\Users\User\Documents\GitHub\hackgames2\server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+11576: 06:21:01.782 - Adding TCP listener on: 0.0.0.0: 4520 with a listen backlog of: 150
+11576: 06:21:01.782 - TCP inactivity timeout: 5000ms
+11576: 06:21:01.782 - TCP disconnect timeout: 120000ms
+11576: 06:21:01.782 - MaxInboundMessageSize: 512000
+11576: 06:21:01.782 - MaxOutboundMessageSize: 512000
+11576: 06:21:01.782 - Forcing all applications ids to: "Master"
+11576: 06:21:01.782 - MaxInboundMessageSize: 512000
+11576: 06:21:01.782 - MaxOutboundMessageSize: 512000
+11576: 06:21:01.782 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+11576: 06:21:01.782 - Adding UDP listener on: 192.168.3.52: 5055 with a listen backlog of: 500
+11576: 06:21:01.782 - Adding UDP listener on: 127.0.0.1: 5055 with a listen backlog of: 500
+11576: 06:21:01.782 - Forcing all applications ids to: "Game"
+11576: 06:21:01.782 - MaxInboundMessageSize: 512000
+11576: 06:21:01.782 - MaxOutboundMessageSize: 512000
+11576: 06:21:01.782 - UDP address specified as: "0.0.0.0" adding listener to each available IPv4 address
+11576: 06:21:01.783 - Adding UDP listener on: 192.168.3.52: 5056 with a listen backlog of: 500
+11576: 06:21:01.783 - Adding UDP listener on: 127.0.0.1: 5056 with a listen backlog of: 500
+11576: 06:21:01.783 - Adding WebSocket TCP listener on: 0.0.0.0: 9090 with a listen backlog of: 150
+11576: 06:21:01.783 - Nagle disabled
+11576: 06:21:01.783 - TCP inactivity timeout: 10000ms
+11576: 06:21:01.783 - MaxInboundMessageSize: 512000
+11576: 06:21:01.783 - MaxOutboundMessageSize: 512000
+11576: 06:21:01.783 - Forcing all applications ids to: "Master"
+11576: 06:21:01.783 - Will accept ANY sub-protocols from the client
+11576: 06:21:01.783 - No automatic WebSocket ping
+11576: 06:21:01.783 - Adding WebSocket TCP listener on: 0.0.0.0: 9091 with a listen backlog of: 150
+11576: 06:21:01.783 - Nagle disabled
+11576: 06:21:01.783 - TCP inactivity timeout: 10000ms
+11576: 06:21:01.783 - MaxInboundMessageSize: 512000
+11576: 06:21:01.783 - MaxOutboundMessageSize: 512000
+11576: 06:21:01.783 - Forcing all applications ids to: "Game"
+11576: 06:21:01.783 - Will accept ANY sub-protocols from the client
+11576: 06:21:01.783 - No automatic WebSocket ping
+11576: 06:21:01.783 - Adding Policy File listener on: 0.0.0.0: 843 with a listen backlog of: 150 and serving Policy File: "C:\Users\User\Documents\GitHub\hackgames2\server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy.xml"
+11576: 06:21:01.783 - TCP inactivity timeout: 1000ms
+11576: 06:21:01.783 - Adding Policy File listener on: 0.0.0.0: 943 with a listen backlog of: 150 and serving Policy File: "C:\Users\User\Documents\GitHub\hackgames2\server\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\Policy\assets\socket-policy-silverlight.xml"
+11576: 06:21:01.783 - TCP inactivity timeout: 1000ms
+11576: 06:21:01.814 - Service is running...
