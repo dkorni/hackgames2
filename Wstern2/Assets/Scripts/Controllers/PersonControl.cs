@@ -96,8 +96,8 @@ public class PersonControl : MonoBehaviour
         }
         else
         {
-            TargetPosition = (Vector3)stream.ReceiveNext();
-            TargetRotation = (Quaternion)stream.ReceiveNext();
+            transform.position = (Vector3)stream.ReceiveNext();
+            transform.rotation = (Quaternion)stream.ReceiveNext();
         }
     }
 
