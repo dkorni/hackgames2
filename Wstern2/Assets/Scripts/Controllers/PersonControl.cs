@@ -17,6 +17,9 @@ public class PersonControl : MonoBehaviour
     public float Damage = 100;
     public float Hp = 100;
 
+    public Vector3 TargetPosition;
+    public Quaternion TargetRotation;
+
     private CharacterController _characterController;
 
     private Vector3 _moveDirection = Vector3.zero;
@@ -69,6 +72,8 @@ public class PersonControl : MonoBehaviour
         // Move the controller
         _characterController.Move(_moveDirection * Time.deltaTime);
         transform.Translate(new Vector3(x, 0, y) * Speed);
+
+        SyncMove();
     }
 
     private void CheckIfPhotonPersonIsMine()
@@ -80,6 +85,26 @@ public class PersonControl : MonoBehaviour
             PersonCamera.enabled = false;
             this.enabled = false;
         }
+    }
+
+    private void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
+    {
+        if (stream.isWriting)
+        {
+            stream.SendNext(transform.position);
+            stream.SendNext(transform.rotation);
+        }
+        else
+        {
+            TargetPosition = (Vector3)stream.ReceiveNext();
+            TargetRotation = (Quaternion)stream.ReceiveNext();
+        }
+    }
+
+    private void SyncMove()
+    {
+        transform.position = Vector3.Lerp(transform.position, TargetPosition, 0.5f);
+        transform.rotation = Quaternion.RotateTowards(transform.rotation, TargetRotation, 720f * Time.deltaTime);
     }
 }
 
