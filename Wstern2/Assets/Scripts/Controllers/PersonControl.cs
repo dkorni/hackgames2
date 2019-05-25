@@ -26,6 +26,7 @@ public class PersonControl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        _photonView = GetComponent<PhotonView>();
         _characterController = GetComponent<CharacterController>();
         CheckIfPhotonPersonIsMine();
 
