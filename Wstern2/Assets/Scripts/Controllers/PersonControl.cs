@@ -6,6 +6,7 @@ public class PersonControl : MonoBehaviour
 {
     
     public Animator AnimatorController;
+    public MouseController MsController;
 
     public float Speed = 6.0f;
     public float JumpSpeed = 8.0f;
@@ -26,6 +27,8 @@ public class PersonControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        var mouseY = Input.GetAxis("Mouse Y");
+
         var x = Input.GetAxis("Horizontal");
         var y = Input.GetAxis("Vertical");
         if (_characterController.isGrounded)
@@ -44,6 +47,8 @@ public class PersonControl : MonoBehaviour
     
        AnimatorController.SetFloat("X", x);
        AnimatorController.SetFloat("Y", y);
+
+        AnimatorController.SetFloat("Mouse Y", MsController.rotationY);
     
        // Apply gravity. Gravity is multiplied by deltaTime twice (once here, and once below
        // when the moveDirection is multiplied by deltaTime). This is because gravity should be applied
