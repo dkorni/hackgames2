@@ -24,7 +24,7 @@ public class GunController : MonoBehaviour
                 RaycastHit hit;
                 Ray ray = Camera.ScreenPointToRay(Input.mousePosition);
 
-                if (Physics.Raycast(ray, out hit, 1000))
+                if (Physics.Raycast(ray, out hit, 67560))
                 {
                     Transform objectHit = hit.transform;
 
