@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PersonControl :  Photon.PunBehaviour
 {   
@@ -16,9 +17,7 @@ public class PersonControl :  Photon.PunBehaviour
     public float Damage = 100;
     public float Hp = 100;
 
-    public Vector3 Net_Position;
-    public Quaternion Net_Rotation;
-    public float LastDataRecievedTime;
+    private Text HPtext;
 
     private CharacterController _characterController;
 
@@ -32,6 +31,9 @@ public class PersonControl :  Photon.PunBehaviour
         _photonView = GetComponent<PhotonView>();
         _characterController = GetComponent<CharacterController>();
         CheckIfPhotonPersonIsMine();
+        HPtext = GameObject.Find("HPText").GetComponent<Text>();
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
     // Update is called once per frame
@@ -42,6 +44,7 @@ public class PersonControl :  Photon.PunBehaviour
         }
         else
         {
+            HPtext.text = $"Health {Hp.ToString()}";
             Movement();
         }
     }
@@ -53,7 +56,7 @@ public class PersonControl :  Photon.PunBehaviour
             MsControllerVertical.enabled = false;
             MsControllerHorizontal.enabled = false;
             PersonCamera.enabled = false;
-          //  this.enabled = false;
+            this.enabled = false;
         }
     }
 
@@ -93,21 +96,15 @@ public class PersonControl :  Photon.PunBehaviour
         transform.Translate(new Vector3(x, 0, y) * Speed);
     }
 
+    [PunRPC]
+    public void SetDamage(float damage) {
+        Hp -= damage;
+        if(Hp < 0)
+        {
+            AnimatorController.SetBool("Death", true);
+        }
+    }
 
-    //void IPunObservable.OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
-    //{
-    //    if (stream.isWriting)
-    //    {
-    //        stream.SendNext(transform.position);
-    //        stream.SendNext(transform.rotation);
-    //    }
-    //    else
-    //    {
-    //        Net_Position = (Vector3)stream.ReceiveNext();
-    //        Net_Rotation = (Quaternion)stream.ReceiveNext();
-    //        LastDataRecievedTime = (float)PhotonNetwork.time;
-    //    }
-    //}
 
 }
 
