@@ -1221,6 +1221,9 @@ MonoBehaviour:
   Gravity: 20
   Damage: 100
   Hp: 100
+  Net_Position: {x: 0, y: 0, z: 0}
+  Net_Rotation: {x: 0, y: 0, z: 0, w: 0}
+  LastDataRecievedTime: 0
 --- !u!114 &4046411954239878640
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1265,6 +1268,7 @@ MonoBehaviour:
   ObservedComponents:
   - {fileID: 1778309758}
   - {fileID: 1778309760}
+  - {fileID: 4046411954239878644}
   ObservedComponentsFoldoutOpen: 1
   viewIdField: 0
   instantiationId: -1
@@ -1283,7 +1287,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_PositionModel:
-    SynchronizeEnabled: 1
+    SynchronizeEnabled: 0
     TeleportEnabled: 1
     TeleportIfDistanceGreaterThan: 3
     InterpolateOption: 4
