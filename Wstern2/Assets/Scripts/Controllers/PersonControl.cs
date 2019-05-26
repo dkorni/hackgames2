@@ -101,7 +101,7 @@ public class PersonControl :  Photon.PunBehaviour
         Hp -= damage;
         if(Hp < 0)
         {
-            AnimatorController.SetBool("Death", true);
+            PhotonNetwork.Destroy(gameObject);
         }
     }
 
