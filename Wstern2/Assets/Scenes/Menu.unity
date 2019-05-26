@@ -960,7 +960,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Version: 1.0
   Spawns: []
-  PlayerPrefab: {fileID: 3496809546991094724, guid: 3aa218a2054b1944991b2ee555050ae4,
+  PlayerPrefab: {fileID: 2364549681197337592, guid: f4efb1460ab11704988dc3d4dea153a5,
     type: 3}
   WaitTimer: 3
 --- !u!4 &944019339
